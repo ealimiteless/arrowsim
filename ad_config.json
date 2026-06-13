@@ -1,1 +1,6 @@
-
+{
+  "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
+  "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+  "banner_ad_id": "ca-app-pub-3940256099942544/6300978111"
+  "is_ads_enabled": true,
